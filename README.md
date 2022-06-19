@@ -103,4 +103,35 @@ Tais critérios citáveis acima, são um dos critérios que poderão influenciar
 
 #### **(1)** Quantos países foram inclusos em tal pesquisa do índice de liberdade econômica?
 
+Pelo método nunique() aplicado sob a coluna 'pais' obtemos como saída o número 186, isto é, 186 países foram inclusos na pesquisa do índice de liberdade econômica, quase todos os países do mundo foram inclusos na pesquisa, porém mundialmente temos 193 países reconhecidos, então tal pesquisa não inclui e não se refere à todos os países do mundo.
 
+No entanto, desses 186 países registrados na pesquisa, aproximadamente 7 desses países tiveram colunas com dados nulos, e que consequentemente não receberam uma avaliação final que trouxesse as pontuações de liberdade econômica de tais países.
+
+À partir de tal informação, poderemos simplificar tal número de países e separa-lo por regiões (ou continentes) para termos uma informação mais simplificada inclusos nesta pesquisa.
+
+Desses 186 países registrados na pesquisa, quantos porcento destes países são localizados na Europa, nas Américas ou nas demais regiões do mundo?
+
+A tabela abaixo responde tal questão:
+
+|        index | regiao                       | qtd_paises |
+|--------------|------------------------------|------------|
+| 0            | Americas                     | 32         |
+| 1            | Asia-Pacific                 | 40         |
+| 2            | Europe                       | 46         |
+| 3            | Middle East and North Africa | 18         |
+| 4            | Sub-Saharan Africa           | 48         |
+|              |                              |            |
+
+Plotaremos um gráfico de pizza para termos uma representação mais visual das informações expostas acima na tabela:
+
+![](./img/d1.png)
+
+À partir do gráfico acima, concluímos informacionalmente que 25 % ou 1 / 4 dos países avaliados são países europeus, 26 % dos países ou mais que 1 / 4 dos países avaliados são países localizados na África Subsaariana, 21 % dos países são países localizados na Ásia-Pacífico, 17 % dos países avaliáveis são países localizados nas Américas, e por fim 9 % dos países são do Oriente Médio e Norte da África, ou seja, o Oriente Médio e Norte da África são às regiões que tiveram menos países avaliados pelo índice de liberdade econômica.
+
+Pela informação extraída em relação às regiões, queremos saber o grau de liberdade econômica de tais regiões:
+
+#### **(2)** Quais são às regiões mundiais com às maiores pontuações de liberdade econômica?
+
+Antes de respondermos tal questão, poderemos saber a porcentagem classificativa de liberdade econômica em relação à todos os países analisados representada por um gráfico de rosca:
+
+![](./img/d25.png)

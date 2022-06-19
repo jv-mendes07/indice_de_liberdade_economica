@@ -145,3 +145,4 @@ Dada a informação percentual do grau de liberdade econômica de todos os país
 O gráfico de barras empilhadas abaixo trará uma resposta visual para à pergunta **(2)**:
 
 ![](/img/d2.png)
+

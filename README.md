@@ -135,3 +135,13 @@ Pela informação extraída em relação às regiões, queremos saber o grau de 
 Antes de respondermos tal questão, poderemos saber a porcentagem classificativa de liberdade econômica em relação à todos os países analisados representada por um gráfico de rosca:
 
 ![](./img/d25.png)
+
+O gráfico de rosca acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, e infelizmente 19 % dos países foram classificáveis como países majoritariamente livres e 18 % como países reprimidos.
+
+Tal informação acima é trágica, por expor que mais de 30 % dos países do mundo todo, são países com baixa liberdade econômica, e que quase 20 % dos países analisados são países que vivem em sistemas ditatoriais e autoritários com pouquíssima ou quase nenhuma liberdade econômica.
+
+Dada a informação percentual do grau de liberdade econômica de todos os países, poderemos simplificar tal informação e trazermos um gráfico que represente quais são às regiões mundiais que apresentam países com alta, moderada ou baixa liberdade econômica.
+
+O gráfico de barras empilhadas abaixo trará uma resposta visual para à pergunta **(2)**:
+
+![](/img/d2.png)

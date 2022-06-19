@@ -62,9 +62,10 @@ As colunas que estão contidas no conjunto de dados do índice de liberdade econ
 
     **(1)** Como temos uma coluna 'pais_id' que serve como identificador de cada país que foi analisado em tal pesquisa, então substituímos o índice automático criado pelo Pandas, para indexarmos a coluna 'pais_id' em seu lugar, justamente para não termos duas colunas de índices no dataset.
  
- ```
- df.set_index('pais_id', inplace = True)
- ```
+ 
+   ```
+   df.set_index('pais_id', inplace = True)
+   ```
  
  * Renomeação de coluna:
 

@@ -170,4 +170,18 @@ Pelo que é observável graficamente, o grau de liberdade econômica dos países
 
 Após tal resposta, continuaremos à dar enfoque neste tópico estatístico em relação à pontuação de liberdade econômica dos países avaliados:
 
-#### **(4)** 
+#### **(4)** Qual é a distribuição de liberdade econômica das regiões mundiais avaliadas pelo índice de liberdade econômica?
+
+Para respondermos essa questão, traremos às mesmas descrições estatísticas de média, mediana e quartis, porém tais medidas serão aplicadas em relação ao grau de liberdade econômica de cada região mundial (Europa, Américas, Ásia-Pacífico, Oriente Médio E Norte Da África, África Subsaariana).
+
+Primariamente, em relação à Ásia-Pacífico a média de liberdade econômica de tal região é de 57, isto significa que os países da Ásia-Pacífico tendem à ter um grau de liberdade econômica baixa próximo à 57, isto é, em média os países da Ásia-Pacífico tendem à ter ser majoritariamente não-livres. 
+
+Já na Europa, em média os países tendem à ter um grau de liberdade econômica próximo à 68, que em outras palavras significa dizer que os países europeus tendem à ser classificáveis como países moderadamente livres. 
+
+Países do Oriente Médio e Norte da África análogo ao países da Ásia-Pacífico, tendem em média à terem uma pontuação de 56 e serem classificados como países majoritariamente não-livres. Semelhantemente, os países da África Subsaariana em média tendem à ter uma pontuação de 53 e serem consideráveis como países maioritariamente não-livres no âmbito econômico.
+
+Por fim, os países das Américas em média tem uma pontuação próxima à 59, ou seja, em média os países das regiões americanas tendem mediamente à serem classificados como países majoritariamente não-livres, mesmo que tais países das Américas sejam os países mais próximos à terem uma média que mais se aproxime ao grau de liberdade econômica moderada.
+
+
+
+

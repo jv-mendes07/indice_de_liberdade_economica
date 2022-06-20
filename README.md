@@ -156,5 +156,18 @@ Já às demais regiões, Américas, Ásia-Pacífico, Oriente Médio e Norte da �
 
 Basicamente, pelo método .mean() sob a coluna 'pontuacao_2022' obtemos como saída que a média de liberdade econômica dos países avaliáveis é de 59.9, isto é, em média os países tendem à ter aproximadamente um grau de liberdade econômica de 59.9, que em outras palavras significa que os países tendem à ser majoritariamente não-livres ou moderadamente livres economicamente. 
 
-Já a mediana de liberdade econômica dos países é de 59.8, que significativamente informa que metade ou 50 % dos países avaliados pelo índice de liberdade econômica apresentam uma pontuação abaixo de 59.8, isto é, metade dos países avaliados são países majoritariamente não-livres ou reprimidos economicamente, enquanto à outra metade dos países apresentam uma pontuação acima de 59.8, e assim os outros 50 % dos países tendem à ter um grau de liberdade econômica classificado como moderadamente ou majoritariamente livre. 
+Já a mediana ou o segundo quartil (Q2) de liberdade econômica dos países é de 59.8, que significativamente informa que metade ou 50 % dos países avaliados pelo índice de liberdade econômica apresentam uma pontuação abaixo de 59.8, isto é, metade dos países avaliados são países majoritariamente não-livres ou reprimidos economicamente, enquanto à outra metade dos países apresentam uma pontuação acima de 59.8, e assim os outros 50 % dos países tendem à ter um grau de liberdade econômica classificado como moderadamente ou majoritariamente livre. 
 
+Para complementarmos tais informações descritivas, poderemos trazer os demais quartis relativo ao grau de liberdade econômica dos países, por exemplo, o primeiro quartil (Q1) apresenta que 25 % dos países apresentam uma pontuação abaixo de 53.3, isto significa que 1 / 4 dos países avaliados apresentam um grau de liberdade econômica baixo classificado como majoritariamente não-livre ou reprimido, enquanto os de mais 75 % dos países tendem à ter uma pontuação acima de 53.3.
+
+Por fim, o terceiro quartil (Q3) informa que 75 % dos países apresentam uma pontuação abaixo de 67.6, isto significa que uma parcela significativa de países tendem à ser classificados como moderadamente livres, majoritariamente não-livres ou reprimido, enquanto o restante de 25 % dos países tendem à ter uma liberdade econômica acima de 67.6 que poderão ser classificados como moderadamente ou majoritariamente livres.
+
+Assim, plotaremos um gráfico de caixa (box-plot) para expor às informações estatísticas que foram dadas acima:
+
+![](./img/d3.png)
+
+Pelo que é observável graficamente, o grau de liberdade econômica dos países estão mais concentrados no intervalo de 53.3 (acima de 50) até 67.6 (abaixo de 70), com algumas exceções de países que tem uma liberdade econômica acima de 70 ou até abaixo de 30 (países considerados outliers, por terem dados atípicos). 
+
+Após tal resposta, continuaremos à dar enfoque neste tópico estatístico em relação à pontuação de liberdade econômica dos países avaliados:
+
+#### **(4)** 

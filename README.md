@@ -212,5 +212,17 @@ Tais informação perpassadas acima, poderão ser plotadas visualmente em um gr�
 
 O gráfico acima expõe às informações ditas anteriormente, em que a Europa é o continente com à maior quantidade concentrada de países com um grau moderado ou majoritário de liberdade econômica, as Américas e a Ásia-Pacífico em segundo lugar são as regiões com uma concentração considerável de países que apresentam um grau moderado de liberdade econômica, e por fim em último lugar a África Subsaariana, o Oriente Médio e o Norte da África são às demais regiões que tem uma quantidade maior de países que concentravelmente tem uma baixíssima liberdade econômica.
 
+Após trazermos várias informações estatísticas sobre o grau de liberdade econômica dos países e das regiões, poderemos continuar à explorar esse tópico com a seguinte questão:
+
+#### **(5)** Qual é a maior frequência de liberdade econômica dos países analisados pelo índice de liberdade econômica?
+
+Basicamente, para respondermos tal questão, plotaremos um histograma para termos uma resposta visual e mais rápida para tal problema:
+
+![](./img/d5.png)
+
+No histograma acima, vemos notavelmente que à maior frequência de países em relação ao grau de liberdade econômica é tido no intervalo entre 55 e 60, ou seja, concluímos que à maior quantidade de países apresentam um grau de liberdade econômica que varia de majoritariamente não-livre (55) até moderadamente livre (60).
+
+Na segunda barra, vemos uma quantidade frequente de países que são moderadamente livres, e que variam de 60 até 65 na pontuação de liberdade econômica, e por fim à terceira barra apresenta uma frequência de países que apresentam uma liberdade econômica que varia de 65 até 70, ou seja, vemos uma frequência considerável de países que são moderadamente ou majoritariamente livres economicamente. 
+
 
 

@@ -178,10 +178,39 @@ Primariamente, em relação à Ásia-Pacífico a média de liberdade econômica 
 
 Já na Europa, em média os países tendem à ter um grau de liberdade econômica próximo à 68, que em outras palavras significa dizer que os países europeus tendem à ser classificáveis como países moderadamente livres. 
 
-Países do Oriente Médio e Norte da África análogo ao países da Ásia-Pacífico, tendem em média à terem uma pontuação de 56 e serem classificados como países majoritariamente não-livres. Semelhantemente, os países da África Subsaariana em média tendem à ter uma pontuação de 53 e serem consideráveis como países maioritariamente não-livres no âmbito econômico.
+Países do Oriente Médio e Norte da África análogo aos países da Ásia-Pacífico, tendem em média à terem uma pontuação de 56 e serem classificados como países majoritariamente não-livres. Semelhantemente, os países da África Subsaariana em média tendem à ter uma pontuação de 53 e serem consideráveis como países maioritariamente não-livres no âmbito econômico.
 
 Por fim, os países das Américas em média tem uma pontuação próxima à 59, ou seja, em média os países das regiões americanas tendem mediamente à serem classificados como países majoritariamente não-livres, mesmo que tais países das Américas sejam os países mais próximos à terem uma média que mais se aproxime ao grau de liberdade econômica moderada.
 
+Já em relação aos valores da mediana e dos quartis, temos que:
+
+**(a)** A mediana ou 50 % dos países europeus apresentam uma pontuação abaixo de 69 e são classificados como moderadamente livres ou majoritariamente não-livres, enquanto à outra metade dos países tem um grau de liberdade econômica acima de 69, que os classifica aproximadamente de países majoritariamente livres.
+
+ 25 % (Q1) dos países europeus tem uma pontuação abaixo de 65 e os demais 75 % dos países da Europa apresentam uma pontuação acima de 65, enquanto o terceiro quartil (Q3) informa que 75 % dos paises da Europa tem um grau de liberdade econômica abaixo de 75 e o restante de 25 % dos países tem uma pontuação acima de 75.
+ 
+ Portanto, concluímos que a Europa é o continente que tende à ter países com um grau de liberdade econômica mais alto, ou seja, a Europa é o continente com países mais livres economicamente.
+ 
+**(b)** A mediana da Ásia-Pacífico informa que 50 % dos países de tal região uma pontuação abaixo de 58, isto é, metade dos países da Ásia-Pacífico são países com baixo grau de liberdade econômica, o primeiro quartil (Q1) informa que 25 % dos países de tal região tem uma pontuação abaixo de 49, logo isto significa que 1 / 4 dos países são considerados como países reprimidos com uma baixíssima liberdade econômica. 
+
+Já o terceiro quartil (Q3) informa que 75 % dos países da Ásia-Pacífico tem uma liberdade econômica abaixo de 64, ou seja, 3 / 4 dos países tem uma liberdade econômica moderada ou majoritariamente não-livre.
+
+**(c)** A mediana do Oriente Médio e Norte da África informa que 50 % dos países regionais tem uma pontuação abaixo de 54, o primeiro quartil informa que 25 % dos países tem uma pontuação abaixo de 43, assim 1 / 4 dos países são classificados como países reprimidos, e o terceiro quartil (Q3) informa que 75 % dos países tem uma pontuação abaixo de 59, ou seja, somente 25 % dos países de tal região que classificam-se como países moderadamente ou majoritariamente livres.
+
+**(d)** Semelhantemente, na África Subsaariana a mediana apresenta que 50 % ou metade dos países tem uma pontuação de liberdade econômica abaixo de 54, o primeiro quartil (Q1) informa que 25 % dos países africanos tem uma pontuação abaixo de 48, e o terceiro quartil (Q3) por fim informa que 75 % dos países tem uma pontuação de liberdade econômica abaixo de 58.
+
+Assim, vemos uma semelhança entre a África Subsaariana, o Oriente Médio e o Norte da África como regiões que têm em maioria países com baixissímas pontuações de liberdade econômica.
+
+**(e)** Por fim, nas Américas a mediana ou o segundo quartil (Q2) informa que 50 % dos países americanos tem uma pontuação abaixo de 62 e são classificados como moderadamente livres ou majoritariamente não-livres, e conclusivamente à outra metade dos países americanos tem uma pontuação igual ou superior à 62 e são classificados como países moderadamente livres.
+
+O primeiro quartil (Q1) informa que 25 % dos países americanos tem uma pontuação abaixo de 54, assim 1 / 4 dos países das Américas são majoritariamente não-livres ou reprimidos, o terceiro quartil (Q3) informa finalmente que 75 % dos países regionais são países com uma pontuação abaixo de 65.
+
+As Américas e a Ásia-Pacífico atrás da Europa, são às regiões que têm mais países com um grau de liberdade econômica moderado.
+
+Tais informação perpassadas acima, poderão ser plotadas visualmente em um gráfico de caixa (box-plot) para termos um entendimento mais intuitivo sobre a distribuição de liberdade econômica das regiões:
+
+![](./img/d27.png)
+
+O gráfico acima expõe às informações ditas anteriormente, em que a Europa é o continente com à maior quantidade concentrada de países com um grau moderado ou majoritário de liberdade econômica, as Américas e a Ásia-Pacífico em segundo lugar são as regiões com uma concentração considerável de países que apresentam um grau moderado de liberdade econômica, e por fim em último lugar a África Subsaariana, o Oriente Médio e o Norte da África são às demais regiões que tem uma quantidade maior de países que concentravelmente tem uma baixíssima liberdade econômica.
 
 
 

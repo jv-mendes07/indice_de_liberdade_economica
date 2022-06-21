@@ -206,7 +206,7 @@ O primeiro quartil (Q1) informa que 25 % dos países americanos tem uma pontuaç
 
 As Américas e a Ásia-Pacífico atrás da Europa, são às regiões que têm mais países com um grau de liberdade econômica moderado.
 
-Tais informação perpassadas acima, poderão ser plotadas visualmente em um gráfico de caixa (box-plot) para termos um entendimento mais intuitivo sobre a distribuição de liberdade econômica das regiões:
+Tais informações perpassadas acima, poderão ser plotadas visualmente em um gráfico de caixa (box-plot) para termos um entendimento mais intuitivo sobre a distribuição de liberdade econômica das regiões:
 
 ![](./img/d27.png)
 
@@ -222,7 +222,7 @@ Basicamente, para respondermos tal questão, plotaremos um histograma para termo
 
 No histograma acima, vemos notavelmente que à maior frequência de países em relação ao grau de liberdade econômica é tido no intervalo entre 55 e 60, ou seja, concluímos que à maior quantidade de países apresentam um grau de liberdade econômica que varia de majoritariamente não-livre (55) até moderadamente livre (60).
 
-Na segunda barra, vemos uma quantidade frequente de países que são moderadamente livres, e que variam de 60 até 65 na pontuação de liberdade econômica, e por fim à terceira barra apresenta uma frequência de países que apresentam uma liberdade econômica que varia de 65 até 70, ou seja, vemos uma frequência considerável de países que são moderadamente ou majoritariamente livres economicamente. 
+Na segunda maior barra, vemos uma quantidade frequente de países que são moderadamente livres, e que variam de 60 até 65 na pontuação de liberdade econômica, e por fim à terceira maior barra apresenta uma frequência de países que apresentam uma liberdade econômica que varia de 65 até 70, ou seja, vemos uma frequência considerável de países que são moderadamente ou majoritariamente livres economicamente. 
 
 
 

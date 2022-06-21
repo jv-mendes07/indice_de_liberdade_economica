@@ -89,7 +89,7 @@ Antes de começarmos à extrair em detalhes ás informações de tal conjunto de
 
 Basicamente, um país é considerado livre economicamente se e somente se tal país não tiver ou tiver pouquíssimas regulamentações burocráticas que impeçam a iniciativa privada de funcionar.
 
-Em suma um país é livre economicamente se o estado não intervir exageradamente na economia, por exemplo:
+Em suma um país é livre economicamente se e somente se o país não tiver um estado que intervenha exageradamente na economia, por exemplo:
 
    **(a)** Se tal país não tiver regulamentações empresariais e trabalhistas que impeçam um empreendedor de abrir um negócio ou que impeçam um trabalhador de ser contratado. 
   
@@ -136,7 +136,7 @@ Antes de respondermos tal questão, poderemos saber a porcentagem classificativa
 
 ![](./img/d25.png)
 
-O gráfico de rosca acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, e infelizmente 19 % dos países foram classificáveis como países majoritariamente livres e 18 % como países reprimidos.
+O gráfico de rosca acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, 19 % dos países foram classificáveis como países majoritariamente livres e infelizmente 18 % como países reprimidos.
 
 Tal informação acima é trágica, por expor que mais de 30 % dos países do mundo todo, são países com baixa liberdade econômica, e que quase 20 % dos países analisados são países que vivem em sistemas ditatoriais e autoritários com pouquíssima ou quase nenhuma liberdade econômica.
 
@@ -145,4 +145,43 @@ Dada a informação percentual do grau de liberdade econômica de todos os país
 O gráfico de barras empilhadas abaixo trará uma resposta visual para à pergunta **(2)**:
 
 ![](/img/d2.png)
+
+Pelo gráfico de barras empilhadas acima, é nitidamente observável que a Europa é a região com uma parcela mais significativa de países que são majoritariamente ou moderadamente livre, e com uma ínfima parcela de países que são majoritariamente não-livres, além de que a Europa é o continente que não contêm países que sejam considerados reprimidos.
+
+Isto é, conclusivamente a Europa é a região do mundo com o maior grau de liberdade econômica, enquanto regiões como África Subsaariana, possui uma parcela notável de países majoritariamente não-livres ou reprimidos economicamente, e com uma pequena parcela de países que são moderadamente ou majoritariamente livres. 
+
+Já às demais regiões, Américas, Ásia-Pacífico, Oriente Médio e Norte da África apresentam parcelas quase proporcionais (com algumas diferenças quantitativas visíveis) de países que são moderadamente ou majoritariamente livres ou não-livres, ou reprimidos.
+
+#### **(3)** Qual é a média e a mediana de liberdade econômica de todos os países avaliados pelo índice de liberdade econômica?
+
+Basicamente, pelo método .mean() sob a coluna 'pontuacao_2022' obtemos como saída que a média de liberdade econômica dos países avaliáveis é de 59.9, isto é, em média os países tendem à ter aproximadamente um grau de liberdade econômica de 59.9, que em outras palavras significa que os países tendem à ser majoritariamente não-livres ou moderadamente livres economicamente. 
+
+Já a mediana ou o segundo quartil (Q2) de liberdade econômica dos países é de 59.8, que significativamente informa que metade ou 50 % dos países avaliados pelo índice de liberdade econômica apresentam uma pontuação abaixo de 59.8, isto é, metade dos países avaliados são países majoritariamente não-livres ou reprimidos economicamente, enquanto à outra metade dos países apresentam uma pontuação acima de 59.8, e assim os outros 50 % dos países tendem à ter um grau de liberdade econômica classificado como moderadamente ou majoritariamente livre. 
+
+Para complementarmos tais informações descritivas, poderemos trazer os demais quartis relativo ao grau de liberdade econômica dos países, por exemplo, o primeiro quartil (Q1) apresenta que 25 % dos países apresentam uma pontuação abaixo de 53.3, isto significa que 1 / 4 dos países avaliados apresentam um grau de liberdade econômica baixo classificado como majoritariamente não-livre ou reprimido, enquanto os de mais 75 % dos países tendem à ter uma pontuação acima de 53.3.
+
+Por fim, o terceiro quartil (Q3) informa que 75 % dos países apresentam uma pontuação abaixo de 67.6, isto significa que uma parcela significativa de países tendem à ser classificados como moderadamente livres, majoritariamente não-livres ou reprimido, enquanto o restante de 25 % dos países tendem à ter uma liberdade econômica acima de 67.6 que poderão ser classificados como moderadamente ou majoritariamente livres.
+
+Assim, plotaremos um gráfico de caixa (box-plot) para expor às informações estatísticas que foram dadas acima:
+
+![](./img/d3.png)
+
+Pelo que é observável graficamente, o grau de liberdade econômica dos países estão mais concentrados no intervalo de 53.3 (acima de 50) até 67.6 (abaixo de 70), com algumas exceções de países que tem uma liberdade econômica acima de 70 ou até abaixo de 30 (países considerados outliers, por terem dados atípicos). 
+
+Após tal resposta, continuaremos à dar enfoque neste tópico estatístico em relação à pontuação de liberdade econômica dos países avaliados:
+
+#### **(4)** Qual é a distribuição de liberdade econômica das regiões mundiais avaliadas pelo índice de liberdade econômica?
+
+Para respondermos essa questão, traremos às mesmas descrições estatísticas de média, mediana e quartis, porém tais medidas serão aplicadas em relação ao grau de liberdade econômica de cada região mundial (Europa, Américas, Ásia-Pacífico, Oriente Médio E Norte Da África, África Subsaariana).
+
+Primariamente, em relação à Ásia-Pacífico a média de liberdade econômica de tal região é de 57, isto significa que os países da Ásia-Pacífico tendem à ter um grau de liberdade econômica baixa próximo à 57, isto é, em média os países da Ásia-Pacífico tendem à ter ser majoritariamente não-livres. 
+
+Já na Europa, em média os países tendem à ter um grau de liberdade econômica próximo à 68, que em outras palavras significa dizer que os países europeus tendem à ser classificáveis como países moderadamente livres. 
+
+Países do Oriente Médio e Norte da África análogo ao países da Ásia-Pacífico, tendem em média à terem uma pontuação de 56 e serem classificados como países majoritariamente não-livres. Semelhantemente, os países da África Subsaariana em média tendem à ter uma pontuação de 53 e serem consideráveis como países maioritariamente não-livres no âmbito econômico.
+
+Por fim, os países das Américas em média tem uma pontuação próxima à 59, ou seja, em média os países das regiões americanas tendem mediamente à serem classificados como países majoritariamente não-livres, mesmo que tais países das Américas sejam os países mais próximos à terem uma média que mais se aproxime ao grau de liberdade econômica moderada.
+
+
+
 

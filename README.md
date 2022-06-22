@@ -280,3 +280,4 @@ Infelizmente, na África Subsaariana 82 % aproximadamente dos países são país
 
 Por fim, vemos que 33 % dos países da Ásia-Pacífico são países moderadamente livres, enquanto 28 % dos países são majoritariamente não-livres, 25 % são de países reprimidos (o que é uma informação triste) e uma minoria de 12 % são de países majoritariamente livres economicamente.
 
+

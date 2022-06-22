@@ -258,3 +258,25 @@ Mas qual é a proporção de países da Europa que são majoritariamente ou mode
 
 #### **(8)** Qual é a proporção de países de cada região que são moderadamente ou majoritariamente livres, não-livres ou reprimidos?
 
+Para responder tal questão, plotaremos quatro gráficos de pizza para cada região:
+
+![](./img/d8.png)
+
+Notavelmente, vemos que quase 50 % ou metade dos países da Europa são países majoritariamente livres, 40 % dos países são moderadamente livres e somente 11 % dos países são não-livres, porém isto reitera a informação de que a Europa agrupa mais países com altos índices de liberdade econômica.
+
+![](./img/d9.png)
+
+Vemos que 37 % dos países das Américas são moderadamente livres, 34 % são países majoritariamente não-livres, e minoritariamente vemos que 15 % dos países são majoritariamente livres e 12 % são países reprimidos.
+
+![](./img/d10.png)
+
+Em relação ao Oriente Médio e ao Norte da África vemos que mais de 50 % dos países de tal região são países majoritariamente não-livres ou reprimidos economicamente, enquanto 35 % aproximadamente são de países que são majoritariamente ou moderadamente livres.
+
+![](./img/d11.png)
+
+Infelizmente, na África Subsaariana 82 % aproximadamente dos países são países majoritariamente não-livres ou reprimidos, enquanto os outros 18 % são de países moderadamente ou majoritariamente livres.
+
+![](./img/d12.png)
+
+Por fim, vemos que 33 % dos países da Ásia-Pacífico são países moderadamente livres, enquanto 28 % dos países são majoritariamente não-livres, 25 % são de países reprimidos (o que é uma informação triste) e uma minoria de 12 % são de países majoritariamente livres economicamente.
+

@@ -224,6 +224,13 @@ No histograma acima, vemos notavelmente que à maior frequência de países em r
 
 Na segunda maior barra, vemos uma quantidade frequente de países que são moderadamente livres, e que variam de 60 até 65 na pontuação de liberdade econômica, e por fim à terceira maior barra apresenta uma frequência de países que apresentam uma liberdade econômica que varia de 65 até 70, ou seja, vemos uma frequência considerável de países que são moderadamente ou majoritariamente livres economicamente. 
 
+E nas barras menores, vemos uma frequência de países concentrados que são reprimidos (abaixo de 50), majoritariamente não livres (acima ou igual à 50) ou que são majoritariamentes livres e apresentam um grau de liberdade econômica acima de 70.
 
+À partir destas informações, queremos explorar mais sobre quais são esses países com baixas e com altas pontuações de liberdade econômica:
 
+#### **(6)** Quais são os 20 países com os maiores índices de liberdade econômica?
+
+Neste ponto da análise, iremos expor quais são os países com altas e baixas pontuações de liberdade econômica, neste caso para responder tal questão iremos plotar um gráfico de barras horizontais para representar em ordem decrescente os 20 países com os níveis mais altos de liberdade econômica:
+
+![](./img/d6.png)
 

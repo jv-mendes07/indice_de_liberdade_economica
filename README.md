@@ -208,7 +208,7 @@ As Américas e a Ásia-Pacífico atrás da Europa, são às regiões que têm ma
 
 Tais informações perpassadas acima, poderão ser plotadas visualmente em um gráfico de caixa (box-plot) para termos um entendimento mais intuitivo sobre a distribuição de liberdade econômica das regiões:
 
-![](./img/d28.png)
+![](./img/d29.png)
 
 O gráfico acima expõe às informações ditas anteriormente, em que a Europa é o continente com à maior quantidade concentrada de países com um grau moderado ou majoritário de liberdade econômica, as Américas e a Ásia-Pacífico em segundo lugar são as regiões com uma concentração considerável de países que apresentam um grau moderado de liberdade econômica, e por fim em último lugar a África Subsaariana, o Oriente Médio e o Norte da África são às demais regiões que tem uma quantidade maior de países que concentravelmente tem uma baixíssima liberdade econômica.
 
@@ -224,6 +224,37 @@ No histograma acima, vemos notavelmente que à maior frequência de países em r
 
 Na segunda maior barra, vemos uma quantidade frequente de países que são moderadamente livres, e que variam de 60 até 65 na pontuação de liberdade econômica, e por fim à terceira maior barra apresenta uma frequência de países que apresentam uma liberdade econômica que varia de 65 até 70, ou seja, vemos uma frequência considerável de países que são moderadamente ou majoritariamente livres economicamente. 
 
+E nas barras menores, vemos uma frequência de países concentrados que são reprimidos (abaixo de 50), majoritariamente não livres (acima ou igual à 50) ou que são majoritariamentes livres e apresentam um grau de liberdade econômica acima de 70.
 
+À partir destas informações, queremos explorar mais sobre quais são esses países com baixas e com altas pontuações de liberdade econômica:
 
+#### **(6)** Quais são os 20 países com os maiores índices de liberdade econômica?
+
+Neste ponto da análise, iremos expor quais são os países com altas e baixas pontuações de liberdade econômica, neste caso para responder tal questão iremos plotar um gráfico de barras horizontais para representar em ordem decrescente os 20 países com os níveis mais altos de liberdade econômica:
+
+![](./img/d6.png)
+
+Todos os países expostos acima são consideráveis como países majoritariamente livres, além de que 70 % destes 20 países são países europeus, 25 % dos países advém da Ásia-Pacífico e somente 5 % dos países são das Américas.
+
+Singapura, Dinamarca, Suíça, Estônia, Holanda e Finlândia são um desses países europeus com altos índices de liberdade econômica.
+
+Como respondemos uma questão relacionada aos países com maiores pontuações, então podemos inverter tal questão para sabermos sobre quais são os países com baixas pontuações de liberdade econômica:
+
+#### **(7)** Quais são os 20 países com os menores índices de liberdade econômica?
+
+Semelhantemente, iremos responder tal questão com um gráfico de barras horizontais para explicitar os 20 países com os mais baixos índices de liberdade econômica:
+
+![](./img/d7.png)
+
+Como é vísivel, países famigerados como Coréia Do Norte, Venezuela e Cuba são um dos países comunistas (ou socialistas) que são classificados como países reprimidos economicamente, tais países tem um estado completamente intervencionista que impede maximamente os indivíduos de produzirem e de criarem riqueza por trocas voluntárias em um sistema capitalista, são países em que o poder dos governantes são beneficiados às custas da miséria de toda uma população. 
+
+45 % desses países são países advindos da África Subsaariana, 25 % são países da Ásia-Pacífico, 15 % são das Américas e os outros 15 % são países do Oriente Médio e do Norte da África, e como expectante nenhum desses países são da Europa.
+
+Todos os 20 países expostos acima são países classificados como países reprimidos economicamente, e que por esse motivo são países com baixíssimos indices de liberdade econômica.
+
+Até esse ponto da análise, sabemos que a Europa é o continente com países mais livres economicamente, e que regiões como África Subsaariana, Oriente Médio e Norte da África são regiões com países de baixíssimos índices de liberdade econômica.
+
+Mas qual é a proporção de países da Europa que são majoritariamente ou moderadamente livres, ou quão é a proporção de países da África Subsaariana e das demais regiões que são moderadamente livres, majoritariamente não-livres ou reprimidos?
+
+#### **(8)** Qual é a proporção de países de cada região que são moderadamente ou majoritariamente livres, não-livres ou reprimidos?
 

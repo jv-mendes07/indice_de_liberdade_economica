@@ -272,7 +272,7 @@ Vemos que 37 % dos países das Américas são moderadamente livres, 34 % são pa
 
 Em relação ao Oriente Médio e ao Norte da África vemos que mais de 50 % dos países de tal região são países majoritariamente não-livres ou reprimidos economicamente, enquanto 35 % aproximadamente são de países que são majoritariamente ou moderadamente livres.
 
-![](./img/d11.png)
+![](./img/d11.png)|      
 
 Infelizmente, na África Subsaariana 82 % aproximadamente dos países são países majoritariamente não-livres ou reprimidos, enquanto os outros 18 % são de países moderadamente ou majoritariamente livres.
 
@@ -280,4 +280,49 @@ Infelizmente, na África Subsaariana 82 % aproximadamente dos países são país
 
 Por fim, vemos que 33 % dos países da Ásia-Pacífico são países moderadamente livres, enquanto 28 % dos países são majoritariamente não-livres, 25 % são de países reprimidos (o que é uma informação triste) e uma minoria de 12 % são de países majoritariamente livres economicamente.
 
+Concluída a resposta, iremos explorar questões relacionadas aos impostos e aos gastos governamentais de cada região, para saber qual dessas regiões avaliadas tem uma tributação e um gasto governamental maior:
+
+#### **(9)** Qual é a distribuição estatística da carga tributária e dos gastos governamentais das regiões avaliadas pelo índice de liberdade econômica?
+
+Tal questão requer dados estatísticos como média, mediana e quartis das cargas tributárias e dos gastos governamentais por região, neste caso traremos a média e a mediana de carga tributária e de despesas governamentais em duas tabelas distintas:
+
+|       | %_carga_tributacao_pib          |                         |        |
+|-------|---------------------------------|-------------------------|--------|
+| index | regiao                          | mean                    | median |
+| 0     | Europa                          | 30.09                   | 32.70  |
+| 1     | Américas                        |                  22.90  | 22.55  |
+| 2     | Ásia-Pacífico                   | 17.09                   | 15.80  |
+| 3     | África Subsaariana              | 15.12                   | 14.10  |
+| 4     | Oriente Médio E Norte Da África |                 14.29   | 14.70  |
+|       |                                 |                         |        |
+
+A tabela acima informa que os países da Europa apresentam em média uma taxa tributária de 30 %, e a mediana informa que 50 % dos países europeus tem uma taxa tributária abaixo de 32 %, enquanto à outra metade dos países europeus tem uma taxa tributária acima ou igual à 32 %, ou seja, por tal informação concluímos que a Europa é o continente com às maiores taxas tributárias do mundo, assim os países europeus são países que tendem à pagar altos impostos.
+
+Já a África Subsaariana, Oriente Médio e Norte da África são regiões com baixíssimas taxas tributárias, em média os países de tais regiões tem aproximadamente 14 à 15 % de taxa tributária, e medianamente 50 % dos países pagam uma taxa de imposto abaixo de 14 %, ou seja, tais taxas de tributação destas regiões são bastante inferiores em comparação às taxas pagas na Europa.
+
+Coincidentemente, as regiões que mais tem liberdade econômica, são as regiões que mais pagam impostos, enquanto inversamente as regiões com menos liberdade econômica, são às regiões que menos pagam impostos.
+
+Será que tal coincidência é repetível em relação aos gastos governamentais de tais regiões?
+
+|       | %_despesas_gov_do_pib           |       |        |
+|-------|---------------------------------|-------|--------|
+| index | regiao                          | mean  | median |
+| 0     | Europa                          | 42.11 | 43.02  |
+| 1     | Oriente Médio E Norte Da África | 35.02 | 33.17  |
+| 2     | Ásia-Pacífico                   | 31.97 | 27.87  |
+| 3     | Américas                        | 31.7  | 29.90  |
+| 4     | África Subsaariana              | 24.04 | 21.85  |
+|       |                                 |       |        |
+
+Novamente, vimos que a Europa é o continente que tem uma das maiores despesas governamentais do mundo, em média os governos de países europeus gastam e investem 42 % do que é produzido pelo PIB europeu, já a mediana informa que 50 % dos países europeus tem uma despesa governamental abaixo de 43 %, enquanto à outra metade de 50 % dos países europeus tem um gasto governamental acima ou igual à 43 %.
+
+Atrás da Europa, há o Oriente Médio e o Norte da África como uma região que tem países com altos gastos governamentais, que em média 35 % do que é produzido nestes países, advém de gastos governamentais. 
+
+Em último lugar, vemos que a África Subsaariana é a região com os menores gastos governamentais, em que 50 % dos países de tal região tem um gasto governamental abaixo de 21 %, enquanto à outra metade dos países tem um gasto governamental acima ou igual à 21 %.
+
+Para termos a distribuição estatística de carga tributária e despesa governamental por região, plotaremos um gráfico de caixa (box-plot):
+
+![](./img/d31.png)
+
+Interessantemente, vemos que a Europa é a região mundial com à maior concentração de países que são moderadamente ou maioritariamente livres no setor econômico, e ainda assim a Europa também é a região com altas taxas tributárias que são pagas pelos países, e também é o continente com os maiores gastos governamentais.
 

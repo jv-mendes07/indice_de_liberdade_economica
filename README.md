@@ -314,3 +314,15 @@ Será que tal coincidência é repetível em relação aos gastos governamentais
 | 4     | África Subsaariana              | 24.04 | 21.85  |
 |       |                                 |       |        |
 
+Novamente, vimos que a Europa é o continente que tem uma das maiores despesas governamentais do mundo, em média os governos de países europeus gastam e investem 42 % do que é produzido pelo PIB europeu, já a mediana informa que 50 % dos países europeus tem uma despesa governamental abaixo de 43 %, enquanto à outra metade de 50 % dos países europeus tem um gasto governamental acima ou igual à 43 %.
+
+Atrás da Europa, há o Oriente Médio e o Norte da África como uma região que tem países com altos gastos governamentais, que em média 35 % do que é produzido nestes países, advém de gastos governamentais. 
+
+Em último lugar, vemos que a África Subsaariana é a região com os menores gastos governamentais, em que 50 % dos países de tal região tem um gasto governamental abaixo de 21 %, enquanto à outra metade dos países tem um gasto governamental acima ou igual à 21 %.
+
+Para termos a distribuição estatística de carga tributária e despesa governamental por região, plotaremos um gráfico de caixa (box-plot):
+
+![](./img/d31.png)
+
+Interessantemente, vemos que a Europa é a região mundial com à maior concentração de países que são moderadamente ou maioritariamente livres no setor econômico, e ainda assim a Europa também é a região com altas taxas tributárias que são pagas pelos países, e também é o continente com os maiores gastos governamentais.
+

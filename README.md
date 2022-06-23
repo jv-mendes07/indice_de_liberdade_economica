@@ -358,6 +358,12 @@ Antes de plotarmos um gráfico de rosca para respondermos esta questão, teremos
 
 Já o PIB Per Capita é a soma da riqueza produzida dividido pela quantidade de habitantes do país, para sabermos em média o quanto os habitantes de tal país se beneficiam e enriquecem juntamente com a riqueza produzida na sua nação.
 
-Após uma explicação breve sobre o PIB Per Capita como um indicador estatístico de riqueza econômica, iremos plotar um gráfico de rosca para saber a proporção de riqueza produzida de cada região em relação a riqueza total (a riqueza somada por todas às regiões mundiais):
+Após uma explicação breve sobre o PIB Per Capita como um indicador estatístico de riqueza econômica, iremos plotar um gráfico de rosca para saber a proporção de riqueza produzida por região em relação a riqueza total (a riqueza somada por todas às regiões mundiais):
 
 ![](./img/d16.png)
+
+Como é observável no gráfico acima, quase 50 % da riqueza mundial é localizada na Europa, ou seja, surpreendentemente quase metade da riqueza produzida no mundo todo advém da Europa, enquanto 18 % da riqueza mundial advém da Ásia-Pacífico, 14 % das Américas, 12 % do Oriente Médio e Norte da África, e por fim 6 % advém da África Subsaariana.
+
+Curiosamente, já sabemos que a Europa é o continente com uma alta concentração de países que são moderadamente ou majoritariamente livres economicamente, e o gráfico acima expõe que quase 50 % da riqueza mundial é localizada na Europa, e ao mesmo tempo vemos regiões com baixos índices de liberdade econômica (Oriente Médio, Norte da África e África Subsaariana) que apresentam uma baixíssima proporção de riqueza produzida em relação à riqueza mundial.
+
+Isto é, será que há uma correlação positiva entre liberdade econômica e PIB Per Capita, ou seja

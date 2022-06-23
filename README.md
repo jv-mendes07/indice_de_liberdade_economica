@@ -324,5 +324,7 @@ Para termos a distribuição estatística de carga tributária e despesa governa
 
 ![](./img/d40.png)
 
+![](./img/d41.png)
+
 Interessantemente, vemos que a Europa é a região mundial com à maior concentração de países que são moderadamente ou maioritariamente livres no setor econômico, e ainda assim a Europa também é a região com altas taxas tributárias que são pagas pelos países, e também é o continente com os maiores gastos governamentais.
 

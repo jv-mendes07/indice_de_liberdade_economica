@@ -350,3 +350,14 @@ Acima vemos que o país com o maior gasto governamental é o Kiribati, que é um
 
 E para reiterar às informações anteriores com mais evidências, 60 % desses países com altos gastos governamentais são de países da Europa.
 
+Neste momento da análise, iremos explorar questões relacionadas ao PIB Per Capita das regiões, a correlação entre liberdade econômica e riqueza (PIB Per Capita), e entre outras variáveis para sabermos quais são os fatores que influenciam ou estão correlacionados com a riqueza de uma nação.
+
+#### **(12)** Qual é a proporção do PIB de cada região em relação ao PIB mundial (em relação às outras regiões)?
+
+Antes de plotarmos um gráfico de rosca para respondermos esta questão, teremos que explicar o que é o PIB, conceitualmente o PIB ou Produto Interno Bruto é uma medida macroeconômica para sabermos o quanto de riqueza foi produzida por um país durante um determinado período, e riqueza neste caso refere-se à produção de bens, serviços e rendas tidas no mercado.
+
+Já o PIB Per Capita é a soma da riqueza produzida dividido pela quantidade de habitantes do país, para sabermos em média o quanto os habitantes de tal país se beneficiam e enriquecem juntamente com a riqueza produzida na sua nação.
+
+Após uma explicação breve sobre o PIB Per Capita como um indicador estatístico de riqueza econômica, iremos plotar um gráfico de rosca para saber a proporção de riqueza produzida de cada região em relação a riqueza total (a riqueza somada por todas às regiões mundiais):
+
+![](./img/d16.png)

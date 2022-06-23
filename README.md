@@ -322,7 +322,7 @@ Em último lugar, vemos que a África Subsaariana é a região com os menores ga
 
 Para termos a distribuição estatística de carga tributária e despesa governamental por região, plotaremos um gráfico de caixa (box-plot):
 
-![](./img/d34.png)
+![](./img/d35.png)
 
 Interessantemente, vemos que a Europa é a região mundial com à maior concentração de países que são moderadamente ou maioritariamente livres no setor econômico, e ainda assim a Europa também é a região com altas taxas tributárias que são pagas pelos países, e também é o continente com os maiores gastos governamentais.
 

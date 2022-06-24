@@ -405,3 +405,9 @@ Isso significa que provavelmente não há uma relação de causa-efeito tão imp
 À partir disto, iremos expor visualmente dois gráficos de regressão linear e dispersão juntamente para vermos a correlação negativa entre tributação, gasto governamental e PIB Per Capita:
 
 ![](./img/d19.png)
+
+Após termos tais informações, iremos explorar mais questões em relação a correlação entre outras variáveis:
+
+#### **(15)** Qual é a correlação entre direitos de propriedade privada e PIB Per Capita?
+
+A variável direitos de propriedade privada 

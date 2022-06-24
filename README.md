@@ -132,11 +132,13 @@ Pela informação extraída em relação às regiões, queremos saber o grau de 
 
 #### **(2)** Quais são às regiões mundiais com às maiores pontuações de liberdade econômica?
 
-Antes de respondermos tal questão, poderemos saber a porcentagem classificativa de liberdade econômica em relação à todos os países analisados representada por um gráfico de rosca:
+Antes de respondermos tal questão, é importante sabermos a quantidade de países contabilizada pelo grau de liberdade econômica, e para esse propósito utilizaremos um gráfico de colunas:
 
-![](./img/d25.png)
+![](./img/d42.png)
 
-O gráfico de rosca acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, 19 % dos países foram classificáveis como países majoritariamente livres e infelizmente 18 % como países reprimidos.
+O gráfico de colunas
+
+acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, 19 % dos países foram classificáveis como países majoritariamente livres e infelizmente 18 % como países reprimidos.
 
 Tal informação acima é trágica, por expor que mais de 30 % dos países do mundo todo, são países com baixa liberdade econômica, e que quase 20 % dos países analisados são países que vivem em sistemas ditatoriais e autoritários com pouquíssima ou quase nenhuma liberdade econômica.
 

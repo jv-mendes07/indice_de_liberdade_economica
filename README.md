@@ -136,9 +136,9 @@ Antes de respondermos tal questão, é importante sabermos a quantidade de país
 
 ![](./img/d42.png)
 
-O gráfico de colunas
+O gráfico de colunas acima expõe que no mundo todo, há uma quantidade significativa de países que são majoritariamente não-livres ou moderadamente livres, e em contrapartida temos uma minoria quantitativa de países que são classificados como majoritariamente livres ou reprimidos economicamente.
 
-acima expressa informacionalmente que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, 19 % dos países foram classificáveis como países majoritariamente livres e infelizmente 18 % como países reprimidos.
+Em porcentagem, isto significa que de todos os países avaliados pelo índice de liberdade econômica, 32 % dos países foram avaliados como países majoritariamente não-livres, 30 % dos países foram classificados como países moderadamente livres, 19 % dos países foram classificáveis como países majoritariamente livres e infelizmente 18 % como países reprimidos.
 
 Tal informação acima é trágica, por expor que mais de 30 % dos países do mundo todo, são países com baixa liberdade econômica, e que quase 20 % dos países analisados são países que vivem em sistemas ditatoriais e autoritários com pouquíssima ou quase nenhuma liberdade econômica.
 
@@ -368,4 +368,20 @@ Como é observável no gráfico acima, quase 50 % da riqueza mundial é localiza
 
 Curiosamente, já sabemos que a Europa é o continente com uma alta concentração de países que são moderadamente ou majoritariamente livres economicamente, e o gráfico acima expõe que quase 50 % da riqueza mundial é localizada na Europa, e ao mesmo tempo vemos regiões com baixos índices de liberdade econômica (Oriente Médio, Norte da África e África Subsaariana) que apresentam uma baixíssima proporção de riqueza produzida em relação à riqueza mundial.
 
-Isto é, será que há uma correlação positiva entre liberdade econômica e PIB Per Capita, ou seja
+Logo, será que há uma correlação positiva entre liberdade econômica e PIB Per Capita, ou seja, será que quão mais livre economicamente é um país, mais rico, produtivo e altamente desenvolvido este país será? E inversamente será que quão mais reprimido é um país, menos rico, próspero, produtivo e desenvolvido este país será? Iremos explorar esses tópicos nas próximas questões:
+
+#### **(13)** Qual é a correlação entre liberdade econômica e PIB Per Capita?
+
+Rapidamente, pelo método .corr() obtemos que a correlação entre liberdade econômica e PIB Per Capita é de 0.70, ou seja, há uma correlação positivamente forte entre liberdade econômica e PIB Per Capita, isto significa que quão mais livre é um país economicamente, maior será o PIB deste país, e conclusivamente mais rico, produtivo e próspero este país tenderá à ser.
+
+Logo, contrariamente, quão menos livre e mais reprimido é um país economicamente, mais pobre e improdutivo este país tenderá à ser.
+
+Com tal informação obtida, iremos transmiti-la visualmente por um gráfico de dispersão que exibirá a correlação fortemente positiva entre liberdade econômica e PIB Per Capita:
+
+![](./img/d17.png)
+
+O gráfico acima comprova nitidamente o que sabemos, de que quão maior é o grau de liberdade econômica de um país, maior tenderá à ser o seu PIB Per Capita, e inversamente quão menor é o grau de liberdade econômica de um país, menor tenderá à ser o seu PIB Per Capita.
+
+Consequentemente, para completarmos este gráfico, iremos adicionar às categorias de avaliação econômica, para vermos que países que são moderadamente ou majoritariamente livres, são países com altos PIBs Per Capita, e inversamente os países que são majoritariamente não-livres ou reprimidos, são países com baixos PIBs Per Capita:
+
+![](./img/d18.png)

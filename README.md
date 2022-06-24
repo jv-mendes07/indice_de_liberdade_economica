@@ -388,9 +388,20 @@ Consequentemente, para completarmos este gráfico, iremos adicionar às categori
 
 Novamente, vemos mais uma prova estridente da correlação positivamente forte entre liberdade econômica e riqueza social do país.
 
-Após tal resposta, iremos explorar outras questões concernentes à correlação entre liberdade econômica e outras variáves:
+Após tal resposta, iremos explorar outras questões concernentes à correlação entre riqueza econômica e outras variáves:
 
-#### **(14)** Qual é a correlação entre às variáveis (a) taxa de imposto e despesa governamental, e (b) liberdade econômica?
+#### **(14)** Qual é a correlação entre às variáveis (a) taxa de imposto e despesa governamental, e (b) PIB Per Capita?
 
-Basicamente, neste caso veremos qual é a correlação entre taxa de imposto, gasto governamental e grau de liberdade econômica, e logo sabemos  
+Basicamente, a correlação entre taxa de imposto e PIB Per Capita é fracamente negativa de -0.37, e analogamente a correlação entre despesa governamental e PIB Per Capita é negativa de -0.38, ou seja, quão maior é a taxa de imposto de um país, menor tenderá à ser o PIB Per Capita e vice-versa, e semelhantemente quão menor os gastos governamentais de um país, menor tenderá à ser o PIB Per Capita de uma nação (e vice-versa).
 
+Assim, poderemos concluir à partir de tal informação, que quão maior são as taxas de imposto ou de gastos governamentais de um mercado nacional, menor tenderá à ser a riqueza e a produtividade econômica do país, e inversamente quão menor são às taxas de imposto e de despesas governamentais, maior tenderá à ser a riqueza e a produtividade econômica de um país.
+
+###### Obs :. Correlação não é necessariamente causalidade, o aumento de riqueza econômica de um país poderá ser causado por outros fatores, tal como o grau de liberdade econômica do país.
+
+Mesmo que haja uma correlação fracamente negativa entre taxa tributária, gastos governamentais e PIB Per Capita, em contrapartida temos dados informativos de que os países da Europa que são os países com os maiores PIBs Per Capita de todo o mundo, e coincidentemente também são os países com às maiores taxas tributárias e gastos governamentais do mundo.
+
+Isso significa que provavelmente não há uma relação de causa-efeito tão impactante entre PIB Per Capita e carga tributária ou gasto governamental, um país poderá ter altas taxas de tributação e de gastos estaduais, mas ainda assim tal país poderá ser bastante rico e produtivo economicamente, desde que seja um país com alta liberdade econômica, com pouquíssimas regulamentações empresarias e trabalhistas que impeçam a iniciativa privada funcionar.
+
+À partir disto, iremos expor visualmente dois gráficos de regressão linear e dispersão juntamente para vermos a correlação negativa entre tributação, gasto governamental e PIB Per Capita:
+
+![](./img/d19.png)

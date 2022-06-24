@@ -322,7 +322,48 @@ Em último lugar, vemos que a África Subsaariana é a região com os menores ga
 
 Para termos a distribuição estatística de carga tributária e despesa governamental por região, plotaremos um gráfico de caixa (box-plot):
 
-![](./img/d35.png)
+![](./img/d40.png)
 
-Interessantemente, vemos que a Europa é a região mundial com à maior concentração de países que são moderadamente ou maioritariamente livres no setor econômico, e ainda assim a Europa também é a região com altas taxas tributárias que são pagas pelos países, e também é o continente com os maiores gastos governamentais.
+![](./img/d41.png)
 
+Como esperado, vemos nos dois gráficos acima que a Europa é a região mundial com à maior concentração de países que apresentam às maiores cargas tributárias e os maiores gastos governamentais em comparação às demais regiões.
+
+E para continuarmos neste tópico, iremos querer quais são esses países com às mais altas cargas tributárias e despesas governamentais:
+
+#### **(10)** Quais são os 20 países com às maiores cargas tributárias do mundo?
+
+Iremos responder tal pergunta com um gráfico de barras horizontais para expor graficamente os 20 países com às maiores taxas de impostos:
+
+![](./img/d14.png)
+
+Vemos no gráfico acima que vários desses países que pagam altos impostos, são países classificados como moderadamente ou majoritariamente livres, tal como Dinamarca, Noruega, Finlândia e Alemanha.
+
+E como confirmação das informações anteriores, 85 % dos países que mais pagam impostos, são de países localizados na Europa.
+
+#### **(11)** Quais são os 20 países com às maiores despesas governamentais?
+
+Novamente, com um gráfico de barras horizontais iremos responder tal questão:
+
+![](./img/d15.png)
+
+Acima vemos que o país com o maior gasto governamental é o Kiribati, que é um país advindo da Ásia-Pacífico, com um gasto governamental exorbitante que beira os 119 % do que é produzido no país.
+
+E para reiterar às informações anteriores com mais evidências, 60 % desses países com altos gastos governamentais são de países da Europa.
+
+Neste momento da análise, iremos explorar questões relacionadas ao PIB Per Capita das regiões, a correlação entre liberdade econômica e riqueza (PIB Per Capita), e entre outras variáveis para sabermos quais são os fatores que influenciam ou estão correlacionados com a riqueza de uma nação.
+
+#### **(12)** Qual é a proporção do PIB de cada região em relação ao PIB mundial (em relação às outras regiões)?
+
+Antes de plotarmos um gráfico de rosca para respondermos esta questão, teremos que explicar o que é o PIB, conceitualmente o PIB ou Produto Interno Bruto é uma medida macroeconômica para sabermos o quanto de riqueza foi produzida por um país durante um determinado período, e riqueza neste caso refere-se à produção de bens, serviços e rendas tidas no mercado.
+
+Já o PIB Per Capita é a soma da riqueza produzida dividido pela quantidade de habitantes do país, para sabermos em média o quanto os habitantes de tal país se beneficiam e enriquecem juntamente com a riqueza produzida na sua nação.
+
+Após uma explicação breve sobre o PIB Per Capita como um indicador estatístico de riqueza econômica, iremos plotar um gráfico de rosca para saber a proporção de riqueza produzida por região em relação a riqueza total (a riqueza somada por todas às regiões mundiais):
+
+![](./img/d16.png)
+
+Como é observável no gráfico acima, quase 50 % da riqueza mundial é localizada na Europa, ou seja, surpreendentemente quase metade da riqueza produzida no mundo todo advém da Europa, enquanto 18 % da riqueza mundial advém da Ásia-Pacífico, 14 % das Américas, 12 % do Oriente Médio e Norte da África, e por fim 6 % advém da África Subsaariana.
+
+Curiosamente, já sabemos que a Europa é o continente com uma alta concentração de países que são moderadamente ou majoritariamente livres economicamente, e o gráfico acima expõe que quase 50 % da riqueza mundial é localizada na Europa, e ao mesmo tempo vemos regiões com baixos índices de liberdade econômica (Oriente Médio, Norte da África e África Subsaariana) que apresentam uma baixíssima proporção de riqueza produzida em relação à riqueza mundial.
+
+Isto é, será que há uma correlação positiva entre liberdade econômica e PIB Per Capita, ou seja

@@ -385,3 +385,12 @@ O gráfico acima comprova nitidamente o que sabemos, de que quão maior é o gra
 Consequentemente, para completarmos este gráfico, iremos adicionar às categorias de avaliação econômica, para vermos que países que são moderadamente ou majoritariamente livres, são países com altos PIBs Per Capita, e inversamente os países que são majoritariamente não-livres ou reprimidos, são países com baixos PIBs Per Capita:
 
 ![](./img/d18.png)
+
+Novamente, vemos mais uma prova estridente da correlação positivamente forte entre liberdade econômica e riqueza social do país.
+
+Após tal resposta, iremos explorar outras questões concernentes à correlação entre liberdade econômica e outras variáves:
+
+#### **(14)** Qual é a correlação entre às variáveis (a) taxa de imposto e despesa governamental, e (b) liberdade econômica?
+
+Basicamente, neste caso veremos qual é a correlação entre taxa de imposto, gasto governamental e grau de liberdade econômica, e logo sabemos  
+

@@ -400,7 +400,7 @@ Assim, poderemos concluir à partir de tal informação, que quão maior são as
 
 Mesmo que haja uma correlação fracamente negativa entre taxa tributária, gastos governamentais e PIB Per Capita, em contrapartida temos dados informativos de que os países da Europa que são os países com os maiores PIBs Per Capita de todo o mundo, e coincidentemente também são os países com às maiores taxas tributárias e gastos governamentais do mundo.
 
-Isso significa que provavelmente não há uma relação de causa-efeito tão impactante entre PIB Per Capita e carga tributária ou gasto governamental, um país poderá ter altas taxas de tributação e de gastos estaduais, mas ainda assim tal país poderá ser bastante rico e produtivo economicamente, desde que seja um país com alta liberdade econômica, com pouquíssimas regulamentações empresarias e trabalhistas que impeçam a iniciativa privada funcionar.
+Isso significa que provavelmente não há uma relação de causa-efeito tão impactante entre PIB Per Capita e carga tributária ou gasto governamental, um país poderá ter altas taxas de tributação e de gastos estaduais, mas ainda assim tal país poderá ser bastante rico e produtivo economicamente, desde que seja um país com alta liberdade econômica, com pouquíssimas regulamentações empresarias e trabalhistas que não impeçam a iniciativa privada de funcionar.
 
 À partir disto, iremos expor visualmente dois gráficos de regressão linear e dispersão juntamente para vermos a correlação negativa entre tributação, gasto governamental e PIB Per Capita:
 
@@ -410,4 +410,58 @@ Após termos tais informações, iremos explorar mais questões em relação a c
 
 #### **(15)** Qual é a correlação entre direitos de propriedade privada e PIB Per Capita?
 
-A variável direitos de propriedade privada 
+A variável direitos de propriedade privada trata do quão o sistema jurídico de um país é defensor e protetor dos direitos de propriedade privada dos indivíduos, o direito de propriedade privada garante aos indíviduos o direito de usarem seus corpos e seus bens legitimamente apropriados (casa, terreno, carro ou qualquer bem escasso) do jeito que quiserem, desde que não violem a propriedade alheia. 
+
+Antes de vermos a correlação que há entre propriedade privada e PIB Per Capita, verificaremos a correlação entre direito de propriedade privada e eficiência jurídica, isto é, será que quão mais um país respeita e garante os direitos individuais de propriedade privada, mais eficaz tenderá à ser o sistema judicial de tal país (e vice-versa)? 
+
+Primeiramente, precisamos definir que eficiência jurídica é um sistema de justiça com leis claras e efetivas para resolver os conflitos sociais, é um judiciário transparente e rápido em seus julgamentos, que não seja burocrático e tenha leis que não sejam passivas de múltiplas interpretações que possam gerar juízos equivocados e injustos. 
+
+Basicamente, a correlação entre direitos de propriedade privada e eficiência jurídica é fortemente positiva de 0.88, assim, temos uma conclusão à posteriori de que os países que mais defendem e garantem os direitos individuais de propriedade, são os países que mais tendem à ter sistemas jurídicos efetivos em resolver conflitos e crimes sociais. 
+
+Plotaremos um scatterplot para representar graficamente tal correlação:
+
+![](./img/d20.png)
+
+Após isto, iremos responder a questão **(15)**, a correlação entre direitos de propriedade privada e PIB Per Capita também é uma correlação fortemente positiva de 0.73, ou seja, quão mais um país defende e garante eticamente os direitos de propriedade privada, mais rico e produtivo este país tenderá à ser economicamente (e vice-versa), e inversamente quão menos um país defende e garante os direitos individuais de propriedade, mais pobre e improdutivo este país tenderá à ser (tendo como base o PIB Per Capita como indicador macroeconômico de riqueza social).
+
+Novamente, plotaremos um scatterplot para representar graficamente a correlação positivamente forte entre propriedade privada e PIB Per Capita:
+
+![](./img/d21.png)
+
+Após respondermos tais questões atinentes à correlação, iremos terminar a análise exploratória do índice de liberdade econômica com mais duas questões à ser respondida:
+
+#### **(16)** Quais são os 10 países com os maiores PIBs Per Capita?
+
+Para respondermos tal pergunta, plotaremos um gráfico de barras horizontais com o valor dentro de suas respectivas barras para representar o grau de liberdade econômica de cada país, isto será útil para vermos que o grau de liberdade econômica está definitivamente atrelado com a riqueza produzida pelo país:
+
+![](./img/d23.png)
+
+Estes países acima são os 10 países com os maiores PIBs Per Capita, 8 desses países são majoritariamente livres e 2 são moderadamente livres, e 50 % de tais país são países europeus, 40 % são de países da Ásia-Pacífico, Oriente Médio e Norte da África, e 10 % são de países das Américas (neste caso, os Estados Unidos).
+
+Agora, iremos responder o contrário de tal questão:
+
+#### **(17)** Quais são os 10 países com menores PIBs Per Capita?
+
+Reiteradamente, traremos os 10 países com os menores PIBs Per Capita com suas respectivas pontuações de liberdade econômica representada internamente em suas barras:
+
+![](./img/d24.png)
+
+Destes 10 países, todos são países da África Subsaariana e são países majoritariamente não-livres ou reprimidos, ou seja, são países com baixo índice de liberdade econômica.
+
+Basicamente, os dois gráficos de barras anteriores demonstram que os 10 países mais ricos com base no PIB Per Capita são países em suma maioria majoritariamente livres, enquanto os 10 países mais pobres com base na mesma medida macroeconômico são países com baixa liberdade econômica.
+
+Portanto, a conclusão que temos após essa análise exploratória é que a riqueza de um país é definitivamente atrelada ao quão livre este país é economicamente.
+
+#### Brasil (Bônus)
+
+Neste bônus, traremos informações econômicas do Brasil com base no índice de liberdade econômica:
+
+O Brasil está na posição 133 no ranking mundial de liberdade econômica, ou seja, de 177 posições podemos considerar que o Brasil ocupa uma baixíssima posição no índice de liberdade econômica.
+
+O grau de liberdade econômica do Brasil é de 53.3, logo concluímos que o Brasil é classificadamente um país majoritariamente não-livre.
+
+O Brasil está entre os 30 países com uma das maiores taxas de desemprego do mundo todo.
+
+Em geral, o Brasil infelizmente é um país com baixíssimo índice de liberdade econômica, e que por esse motivo é um país que continua à ser um país de terceiro mundo. 
+
+## ANÁLISE EXPLORATÓRIA FINALIZADA

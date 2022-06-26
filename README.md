@@ -434,7 +434,7 @@ Após respondermos tais questões atinentes à correlação, iremos terminar a a
 
 Para respondermos tal pergunta, plotaremos um gráfico de barras horizontais com o valor dentro de suas respectivas barras para representar o grau de liberdade econômica de cada país, isto será útil para vermos que o grau de liberdade econômica está definitivamente atrelado com a riqueza produzida pelo país:
 
-![](./img/d23.png)
+![](./img/d43.png)
 
 Estes países acima são os 10 países com os maiores PIBs Per Capita, 8 desses países são majoritariamente livres e 2 são moderadamente livres, e 50 % de tais país são países europeus, 40 % são de países da Ásia-Pacífico, Oriente Médio e Norte da África, e 10 % são de países das Américas (neste caso, os Estados Unidos).
 
@@ -444,7 +444,7 @@ Agora, iremos responder o contrário de tal questão:
 
 Reiteradamente, traremos os 10 países com os menores PIBs Per Capita com suas respectivas pontuações de liberdade econômica representada internamente em suas barras:
 
-![](./img/d24.png)
+![](./img/d45.png)
 
 Destes 10 países, todos são países da África Subsaariana e são países majoritariamente não-livres ou reprimidos, ou seja, são países com baixo índice de liberdade econômica.
 

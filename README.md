@@ -396,7 +396,7 @@ Basicamente, a correlação entre taxa de imposto e PIB Per Capita é fracamente
 
 Assim, poderemos concluir à partir de tal informação, que quão maior são as taxas de imposto ou de gastos governamentais de um mercado nacional, menor tenderá à ser a riqueza e a produtividade econômica do país, e inversamente quão menor são às taxas de imposto e de despesas governamentais, maior tenderá à ser a riqueza e a produtividade econômica de um país.
 
-###### Obs :. Correlação não é necessariamente causalidade, o aumento de riqueza econômica de um país poderá ser causado por outros fatores, tal como o grau de liberdade econômica do país.
+###### Obs :. Correlação não é necessariamente causalidade, o aumento de riqueza econômica de um país poderá ser causado por outros fatores, tal como pelo grau de liberdade econômica do país.
 
 Mesmo que haja uma correlação fracamente negativa entre taxa tributária, gastos governamentais e PIB Per Capita, em contrapartida temos dados informativos de que os países da Europa que são os países com os maiores PIBs Per Capita de todo o mundo, e coincidentemente também são os países com às maiores taxas tributárias e gastos governamentais do mundo.
 
